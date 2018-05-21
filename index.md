@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 ## Introduction
 In the art of painting the rendering of space has always been considered of great importance, and perspective, shading and foreshortening have been widely studied. The rendering of materials is quite another matter. It was equally deemed essential for the art painting in the past, but it has received little scholarly or scientific attention until now. This symposium will be devoted both the art historical aspects of the pictorial evocation of materials, and to the psychology and perception of material properties.
 
