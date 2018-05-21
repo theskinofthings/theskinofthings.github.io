@@ -10,6 +10,10 @@ In the field of vision science we are looking forward to contributions concerned
 ## Venue and accommodation
 The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in Amsterdam, the Netherlands. Accommodation is not included, but should be relatively easy to arrange since the venue is in the middle of Amsterdam. 
 
+![Atelier gebouw](/images/ateliergebouw.jpg)
+
+
+
 ## Contributions
 Abstracts of 300 words can submitted to EasyChair before 22 June 2018. Notification of acceptance will be send in July.  We will try to accommodate as many contributions as possible yet time and space is limited. Presentations will either be oral or poster. 
 
