@@ -17,6 +17,8 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 ## Contributions
 Abstracts of 300 words can submitted to EasyChair before 22 June 2018. Notification of acceptance will be send in July.  We will try to accommodate as many contributions as possible yet time and space is limited. Presentations will either be oral or poster. 
 
+https://easychair.org/conferences/?conf=tsot2018
+
 ## Special issue in Art and Perception
 After the symposium you are invited to submit a manuscript to a special issue in Art and Perception, more info will be shared at a later moment.
 
