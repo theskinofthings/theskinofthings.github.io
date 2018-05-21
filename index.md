@@ -1,8 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-
 ## Introduction
 In the art of painting the rendering of space has always been considered of great importance, and perspective, shading and foreshortening have been widely studied. The rendering of materials is quite another matter. It was equally deemed essential for the art painting in the past, but it has received little scholarly or scientific attention until now. This symposium will be devoted both the art historical aspects of the pictorial evocation of materials, and to the psychology and perception of material properties.
 
@@ -12,39 +7,19 @@ In the case of art history we are thinking about topics as painterly techniques,
 
 In the field of vision science we are looking forward to contributions concerned with material perception and rendering. We welcome recent findings in texture, material, shape or light perception that may increase our understanding of how painters depict these. Also research using artefacts (like paintings) to gain novel insights into perception is much appreciated.  We would also like to organize an extra session concerned with art annotation and/or digital art history, depending on the number of contributions in this area. 
 
+## Venue and accommodation
+The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in Amsterdam, the Netherlands. Accommodation is not included, but should be relatively easy to arrange since the venue is in the middle of Amsterdam. 
 
-You can use the [editor on GitHub](https://github.com/theskinofthings/theskinofthings.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Contributions
+Abstracts of 300 words can submitted to EasyChair before 22 June 2018. Notification of acceptance will be send in July.  We will try to accommodate as many contributions as possible yet time and space is limited. Presentations will either be oral or poster. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Special issue in Art and Perception
+After the symposium you are invited to submit a manuscript to a special issue in Art and Perception, more info will be shared at a later moment.
 
-### Markdown
+## Dates
+Main symposium:
+Afternoon of 26th November 2018 - early afternoon 28th November 2018
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Special interest meeting about annotating art works and digital art history (if sufficient participants): Monday morning 26th November
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theskinofthings/theskinofthings.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Willem Beurs’ material recipes workshop with painters, photographers and scientists: Wednesday afternoon 28th November
