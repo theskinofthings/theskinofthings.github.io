@@ -10,7 +10,7 @@ In the field of vision science we are looking forward to contributions concerned
 ## Venue and accommodation
 The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in Amsterdam, the Netherlands. Accommodation is not included, but should be relatively easy to arrange since the venue is in the middle of Amsterdam. 
 
-![Atelier gebouw](/images/ateliergebouw.jpg)
+![Atelier gebouw](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hobbemastraat_22-24%2C_Veiligheidsinstituut%2C_Stichting_Het_Rijksmuseum.JPG/800px-Hobbemastraat_22-24%2C_Veiligheidsinstituut%2C_Stichting_Het_Rijksmuseum.JPG)
 
 
 
