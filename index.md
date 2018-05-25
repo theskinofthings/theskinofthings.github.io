@@ -20,7 +20,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 ## Preliminary program and keynotes
 
 #### Monday 26 November
-**Morning**: Potentially session about art annotation and digital art histtory when sufficient attandees submit about this theme (will keep this website updated).
+**Morning**: Potential session about art annotation and digital art histtory when sufficient attandees submit about this theme (will keep this website updated).
 
 **Afternoon**: Start of actual symposium with 3 keynotes introducting material depiction from 3 different angles: Art History (Jeroen Stumpel), Perception (Roland Fleming) and Computer Graphics (Adrien Bousseau). 
 
@@ -32,7 +32,9 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 **Evening**: Keynote (to be announced)
 
 #### Wednesday 28 November
-Morning: 
+**Morning**: oral and poster sessions. 
+
+**Afternoon**: Painting workshop concerning material rendering recipies by Willem Beurs for painters, photographers and scientists. 
 
 ## Abstract submission
 Abstracts of 300 words can submitted to EasyChair before 22 June 2018. Notification of acceptance will be send in July.  We will try to accommodate as many contributions as possible yet time and space is limited. Presentations will either be oral or poster. 
@@ -42,10 +44,13 @@ Abstracts of 300 words can submitted to EasyChair before 22 June 2018. Notificat
 ## Special issue in Art and Perception
 After the symposium you are invited to submit a manuscript to a special issue in Art and Perception, more info will be shared at a later moment.
 
-## Dates
-Main symposium:
-Afternoon of 26th November 2018 - early afternoon 28th November 2018
+## Organising committee
+Maarten Wijntjes (m.w.a.wijntjes@tudelft.nl)
+Sylvia Pont
+Jeroen Stumpel
+Lisa Wiersma
+Francesca di Cicco
+Mitchell van Zuylen
+Cristina Spoiale
+Ann-Sophie Lehman 
 
-Special interest meeting about annotating art works and digital art history (if sufficient participants): Monday morning 26th November
-
-Willem Beurs’ material recipes workshop with painters, photographers and scientists: Wednesday afternoon 28th November
