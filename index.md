@@ -20,16 +20,16 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 ## Preliminary program and keynotes
 
 #### Monday 26 November
-Morning: Potentially session about art annotation and digital art histtory when sufficient attandees submit about this theme (will keep this website updated).
+**Morning**: Potentially session about art annotation and digital art histtory when sufficient attandees submit about this theme (will keep this website updated).
 
-Afternoon: Start of actual symposium with 3 keynotes introducting material depiction from 3 different angles: Art History (Jeroen Stumpel), Perception (Roland Fleming) and Computer Graphics (Adrien Bousseau). 
+**Afternoon**: Start of actual symposium with 3 keynotes introducting material depiction from 3 different angles: Art History (Jeroen Stumpel), Perception (Roland Fleming) and Computer Graphics (Adrien Bousseau). 
 
-Evening: Reception
+**Evening**: Reception
 
-##### Tuesday 27 November
-Whole day: oral and poster sessions devoted to specific topics like texture, highlights, shading, colour, illumination, etc.
+#### Tuesday 27 November
+**Whole day**: oral and poster sessions devoted to specific topics like texture, highlights, shading, colour, illumination, etc.
 
-Evening: Artist keynote (to be announced)
+**Evening**: Keynote (to be announced)
 
 #### Wednesday 28 November
 Morning: 
