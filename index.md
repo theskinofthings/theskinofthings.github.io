@@ -46,12 +46,12 @@ Abstracts of 300 words can submitted to EasyChair, deadline is 4 september 2018.
 After the symposium you are invited to submit a manuscript to a special issue in Art and Perception, more info will be shared at a later moment. Note that this will entail an independent manuscript submission process. Participation to the workshop is neither necessary nor a guarantee for acceptance.   
 
 ## Organising committee
-Maarten Wijntjes (m.w.a.wijntjes@tudelft.nl)
-Sylvia Pont
-Jeroen Stumpel
-Lisa Wiersma
-Francesca Di Cicco
-Mitchell van Zuylen
-Cristina Spoiale
-Ann-Sophie Lehman 
+- Maarten Wijntjes (m.w.a.wijntjes@tudelft.nl)
+- Sylvia Pont
+- Jeroen Stumpel
+- Lisa Wiersma
+- Francesca Di Cicco
+- Mitchell van Zuylen
+- Cristina Spoiale
+- Ann-Sophie Lehman 
 
