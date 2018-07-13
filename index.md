@@ -52,6 +52,6 @@ After the symposium you are invited to submit a manuscript to a special issue in
 - Lisa Wiersma
 - Francesca Di Cicco
 - Mitchell van Zuylen
-- Cristina Spoiale
-- Ann-Sophie Lehman 
+- Cristina Spoiala
+- Ann-Sophie Lehmann 
 
