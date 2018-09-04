@@ -1,5 +1,3 @@
-
-
 ## Introduction
 In the art of painting the rendering of space has always been considered of great importance, and perspective, shading and foreshortening have been widely studied. The rendering of materials is quite another matter. It was equally deemed essential for the art painting in the past, but it has received little scholarly or scientific attention until now. This symposium will be devoted both to the art historical aspects of the pictorial evocation of materials, and to the psychology and perception of material properties.
 
@@ -40,7 +38,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 **Afternoon**: Painting workshop concerning material rendering recipes by Willem Beurs for painters, photographers (limited seats).
 
 ## Abstract submission and dates
-Abstracts of 300 words can submitted to EasyChair, deadline is 4 september 2018. Notification of acceptance will be send latest 14 september.  We will try to accommodate as many contributions as possible yet seats is limited. Presentations will either be oral or poster.
+Abstracts of 300 words can submitted to EasyChair, deadline is **4 september 2018**. If you did not meet the deadline but still would like to participate you can contact me (m.w.a.wijntjes@tudelft.nl) asap, maybe there is still something possible while we draft the final programme (no guarantees). Notification of acceptance will be send latest **14 september**.  We will try to accommodate as many contributions as possible yet seats are limited. Presentations will either be oral or poster.
 [Go to EasyChair submission page](https://easychair.org/conferences/?conf=tsot2018)
 
 ## Registration
