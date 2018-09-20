@@ -29,6 +29,6 @@ If you happen to arrive a few days earlier, we recommend the open ateliers at th
 
 It can happen that it is a bit cold and wet at the end of November (although things change lately). If so, and you need to warm/dry up: Cafe Wetering is a very pleasent bar with Fireplace, and also a rather good example of a 'Bruine Kroeg'!
 
-![cafe](/images/CafeWetering)
+![cafe](/images/CafeWetering.jpg)
 
 Amsterdam has a nice tourist website, also used by residents to check out cultural agenda's etc: [Amsterdam tourist info](https://www.iamsterdam.com)
