@@ -56,3 +56,5 @@ After the symposium you are invited to submit a manuscript to a special issue in
 - Mitchell van Zuylen
 - Cristina Spoiala
 - Ann-Sophie Lehmann
+
+[a relative link](locationinfo.md)
