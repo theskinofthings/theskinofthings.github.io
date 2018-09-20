@@ -19,9 +19,10 @@ As you can see, you can choose between 4 neighbourhoods which are all rather ple
 ### Travel
 From amsterdam Schiphol airport you can take a train directly to central station. This is fast and cheap. If you take a cab, whatch out it is not a scam, there should be signs on Schiphol warning you for them: read them carefully. 
 
-If you rent a bike, watch out a bit. Especally in 'rush hour' it can be quite hectic with bikers around the venue. 
+If you rent a bike, watch out a bit. Especally in 'rush hour' it can be quite hectic with bikers around the venue. The most pleasent transport is walking, but otherwise there are many trams stops close to the venue
 
 ### Other
 If you happen to arrive a few days earlier, we recommend the open ateliers at the Rijksacademy, a yearly event where all artist in residence show their work. The building and athmosphere is very nice. [Rijksacademy] https://www.rijksakademie.nl/ENG/rijksakademieopen (not yet workin).
+
 
 Amsterdam has a nice tourist website, also used by residents to check out cultural agenda's etc: [Amsterdam tourist info](https://www.iamsterdam.com)
