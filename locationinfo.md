@@ -25,9 +25,9 @@ If you rent a bike, watch out a bit. Especially in 'rush hour' it can be quite h
 
 ### Other
 If you happen to arrive a few days earlier, we recommend the open ateliers at the [Rijksacademy](https://www.rijksakademie.nl/ENG/rijksakademieopen)(link still from 2017), a yearly event where all artist in residence show their work. The building and atmosphere is very nice.
-
+<!--
 It can happen that it is a bit cold and wet at the end of November (although things change lately). If so, and you need to warm/dry up: Cafe Wetering is a very pleasant bar with fireplace, and also a rather good example of a 'Bruine Kroeg'!
 
-![cafe](/images/CafeWetering.jpg)
+![cafe](/images/CafeWetering.jpg)-->
 
 Amsterdam has a nice tourist website, also used by residents to check out cultural agenda's etc: [Amsterdam tourist info](https://www.iamsterdam.com)
