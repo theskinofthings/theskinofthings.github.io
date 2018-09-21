@@ -14,6 +14,8 @@ In the field of vision science we are looking forward to contributions concerned
 If you feel in doubt whether your contribution would fit our scope, please feel free to contact us (e.g. m.w.a.wijntjes@tudelft.nl or J.F.H.J.Stumpel@uu.nl).
 
 ## Venue and accommodation
+[Extended venue info](locationinfo.md)
+
 The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in Amsterdam, the Netherlands. Accommodation is not included, but should be relatively easy to arrange since the venue is in the center of Amsterdam.
 
 ![Atelier gebouw](/images/google3dSmall.png)
@@ -57,4 +59,3 @@ After the symposium you are invited to submit a manuscript to a special issue in
 - Cristina Spoiala
 - Ann-Sophie Lehmann
 
-[a relative link](locationinfo.md)

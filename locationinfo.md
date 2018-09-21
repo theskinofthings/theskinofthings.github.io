@@ -10,6 +10,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 ### Neighbourhood
 
 On Tuesday and Wednesday we will start at 9.00, which means you have plenty of time to start the day with a swim at the 'Zuiderbad', a very nice swimming pool just two buildings next to the ‘Ateliergebouw’ (Hobbemastraat 26, ticket about 4 euro). 
+
 ![zuiderbad](/images/zuiderbad.jpg)
 
 
@@ -24,7 +25,7 @@ From Amsterdam Schiphol airport you can take a train directly to central station
 If you rent a bike, watch out a bit. Especially in 'rush hour' it can be quite hectic with bikers around the venue. The most pleasant transport is walking, but otherwise there are many trams stops close to the venue.
 
 ### Other
-If you happen to arrive a few days earlier, we recommend the open ateliers at the [Rijksacademy](https://www.rijksakademie.nl/ENG/rijksakademieopen)(link still from 2017), a yearly event where all artist in residence show their work. The building and atmosphere is very nice.
+If you happen to arrive a few days earlier, we recommend the open ateliers at the [Rijksacademy](https://www.rijksakademie.nl/ENG/rijksakademieopen) (link still from 2017), a yearly event where all artist in residence show their work. The building and atmosphere is very nice.
 <!--
 It can happen that it is a bit cold and wet at the end of November (although things change lately). If so, and you need to warm/dry up: Cafe Wetering is a very pleasant bar with fireplace, and also a rather good example of a 'Bruine Kroeg'!
 
