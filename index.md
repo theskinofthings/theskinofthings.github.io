@@ -37,7 +37,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 #### Wednesday 28 November
 **Morning**: oral and poster sessions.
 
-**Afternoon**: Painting workshop concerning material rendering recipes by Willem Beurs for painters, photographers (limited seats).
+**Afternoon**: Painting workshop concerning material rendering recipes by Willem Beurs for painters, photographers (limited seats). Furthermore, a trip to the Rijksmusuem galleries. 
 
 ## Abstract submission and dates
 Abstracts of 300 words can submitted to EasyChair, deadline is **4 september 2018**. If you did not meet the deadline but still would like to participate you can contact me (m.w.a.wijntjes@tudelft.nl) asap, maybe there is still something possible while we draft the final programme (no guarantees). Notification of acceptance will be send latest **14 september**.  We will try to accommodate as many contributions as possible yet seats are limited. Presentations will either be oral or poster.
@@ -45,6 +45,17 @@ Abstracts of 300 words can submitted to EasyChair, deadline is **4 september 201
 
 ## Registration
 After we have reviewed the abstracts we will have a good idea about the number of participants and will open a registration link. This should occur around 17 September. 
+
+## Made possible by...
+
+We are very grateful to the Royal Netherlands Academy of Arts and Sciences and the Netherlands Organisation for Scientific Research in funding this symposium. 
+
+![KNAW](/images/KNAW_100pt_RGB.jpg)
+
+
+<img src="/images/nwo_logo_en_lowres.jpg" alt="NWO" width="200"/>
+
+![NWO](/images/nwo_logo_en_lowres.jpg)
 
 ## Special issue in Art and Perception
 After the symposium you are invited to submit a manuscript to a special issue in Art and Perception, more info will be shared at a later moment. Note that this will entail an independent manuscript submission process. Participation to the workshop is neither necessary nor a guarantee for acceptance.   
