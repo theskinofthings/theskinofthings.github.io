@@ -46,11 +46,11 @@ We categorised your presentations in themes, feel free to be inspired! Furthermo
 
 ### Poster presentations
 The heart of the symposium! We will have a long lunch and poster discussion on Tuesday. To get everyone informed well, we would like to show previews for which we need a visual, instructions will follow later. Importantly, your poster is A0, portrait orientation. 
-
+<!--
 ## Abstract submission and dates
 Abstracts of 300 words can submitted to EasyChair, deadline is **4 september 2018**. If you did not meet the deadline but still would like to participate you can contact me (m.w.a.wijntjes@tudelft.nl) asap, maybe there is still something possible while we draft the final programme (no guarantees). Notification of acceptance will be send latest **14 September**.  We will try to accommodate as many contributions as possible yet seats are limited. Presentations will either be oral or poster.
 [Go to EasyChair submission page](https://easychair.org/conferences/?conf=tsot2018)
-
+-->
 ## Registration
 Registration is open [here](registration.md). The registration fee (50 euro) covers coffee and lunch. If you are not on the list (use the email address that you used for correspondence), please contact us. Seats are limited and we will review your request on the basis of matching interest/expertise. 
 
