@@ -20,10 +20,11 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 
 ![Atelier gebouw](/images/google3dSmall.png)
 
-## Preliminary program and keynotes
+## Program
+
+The (preliminary) program with oral presentations can be downloaded [here](/images/preliminaryProgram.pdf). Roughly, our 3 days together will look like this:
 
 #### Monday 26 November
-**Morning**: Potential session about art annotation and digital art history when sufficient attendees submit about this theme (will keep this website updated).
 
 **Afternoon**: Start of actual symposium with 3 keynotes introducing material depiction from 3 different angles: Art History (Jeroen Stumpel), Perception (Roland Fleming) and Computer Graphics (Adrien Bousseau).
 
@@ -39,12 +40,19 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 
 **Afternoon**: Painting workshop concerning material rendering recipes by Willem Beurs for painters, photographers (limited seats). Furthermore, a trip to the Rijksmusuem galleries. 
 
+## Instructions for presentations
+### Oral presentations
+We categorised your presentations in themes, feel free to be inspired! Furthermore, at the end of the sessions we schedule a 20 minute plenary discussion to find parallels across talks and theme and maybe discuss related art works. Your own talks lasts 20 minutes including time for questions. 
+
+### Poster presentations
+The heart of the symposium! We will have a long lunch and poster discussion on Tuesday. To get everyone informed well, we would like to show previews for which we need a visual, instructions will follow later. Importantly, your poster is A0, portrait orientation. 
+
 ## Abstract submission and dates
-Abstracts of 300 words can submitted to EasyChair, deadline is **4 september 2018**. If you did not meet the deadline but still would like to participate you can contact me (m.w.a.wijntjes@tudelft.nl) asap, maybe there is still something possible while we draft the final programme (no guarantees). Notification of acceptance will be send latest **14 september**.  We will try to accommodate as many contributions as possible yet seats are limited. Presentations will either be oral or poster.
+Abstracts of 300 words can submitted to EasyChair, deadline is **4 september 2018**. If you did not meet the deadline but still would like to participate you can contact me (m.w.a.wijntjes@tudelft.nl) asap, maybe there is still something possible while we draft the final programme (no guarantees). Notification of acceptance will be send latest **14 September**.  We will try to accommodate as many contributions as possible yet seats are limited. Presentations will either be oral or poster.
 [Go to EasyChair submission page](https://easychair.org/conferences/?conf=tsot2018)
 
 ## Registration
-After we have reviewed the abstracts we will have a good idea about the number of participants and will open a registration link. This should occur around 17 September. 
+Registration is open [here](registration.md). The registration fee (50 euro) covers coffee and lunch. If you are not on the list (use the email address that you used for correspondence), please contact us. Seats are limited and we will review your request on the basis of matching interest/expertise. 
 
 ## Acknowledgements
 
