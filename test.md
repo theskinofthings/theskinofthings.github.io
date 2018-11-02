@@ -12,12 +12,3 @@
 17:15 | Roland Fleming | Perception of material properties
 18:45 | Reception @ Cafe Wildschut | 
 
-#### Tuesday 26 November
- --- | --- | ---
- | Aesthetics of surface and material | 
-09:00 | Ann-Sophie Lehmann | Superficial Pleasures. Making and Experiencing Material Surfaces in the Visual Arts
-09:20 | David Romand | Konrad Lange on "the illusion of materials" in painting and visual arts.
-09:40 | Hannah De Corte | Against the grain. Emergence of the textile of the canvas at the surface of modern painting
-10:00 | Flip Phillips | The Veiled Virgin Effect: Causal Layering of 3D Shape
-10:20 | Discussion | 
-10:40 | Coffee | 
