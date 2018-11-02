@@ -18,7 +18,7 @@ and another
 
  and so....
 
-#### Monday 26 November
+
  --- | --- | ---
 14:00 | Registration | 
 14:30 | Introduction | 
@@ -27,8 +27,3 @@ and another
 16:45 | Break | 
 17:15 | Roland Fleming | Perception of material properties
 18:45 | Reception @ Cafe Wildschut | 
-
-
-
-
- huh??
