@@ -29,9 +29,6 @@ and another
 18:45 | Reception @ Cafe Wildschut | 
 
 
-#### Tuesday 27 November
- 
-
 
 
 aloha
