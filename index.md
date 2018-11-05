@@ -34,7 +34,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 17:15 | Roland Fleming | Perception of material properties
 18:45 | Reception @ [Cafe Wildschut](http://www.cafewildschut.nl) | 
 
-#### Tuesday 26 November
+#### Tuesday 27 November
 
  --- | --- | ---
  | | **Aesthetics of surface and material**
@@ -65,7 +65,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 17:45 | Closing | 
  |  | 
 
-#### Tuesday 26 November
+#### Wednesday 28 November
 
  --- | --- | --- 
  | | **Colours and (sub)surface**
