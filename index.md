@@ -63,7 +63,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 16:40 | Aditya Sole | Measuring and Understanding Visual Appearance
 17:00 | Discussion | 
 17:20 | Break |
-17:30 | Demonstration talk Henk Helmantel [(selected work)](http://www.helmantel.nl/schilderijen/stillevens.html) |
+17:30 | Henk Helmantel | Demonstration workshop [(selected work)](http://www.helmantel.nl/schilderijen/stillevens.html) 
 18:30 | Finish |
 
  |  | 
