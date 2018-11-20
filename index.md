@@ -86,7 +86,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 12:30 | Discussion | 
 12:50 | Lunch & closing | 
 13:40 | Start workshop & tour | 
-16:30 | Finish workshop, see results | 
+17:30 | Finish workshop, see results | 
 
 
 
