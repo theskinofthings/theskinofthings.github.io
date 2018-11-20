@@ -79,13 +79,13 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 10:20 | Discussion | 
 10:40 | Coffee | 
  | | **Technique and material 2: 17th century**
-11:10 | Lisa Wiersma | The appeal of painted grapes: visualising the system behind material properties painting
-11:10 | Lisa Wiersma and Francesca Di Cicco | The appeal of painted grapes: visualising the system behind material properties painting
-11:30 | Carol Pottasch | De suyverheit en de cloecke trecken' ('The clear and bold design') in Frans van Mieris' work
-11:50 | Ulrike Kern | Highlights, lustre and the surface of things. 
-12:10 | Discussion | 
-12:30 | Lunch & closing | 
-13:30 | Start workshop & tour | 
+11:10 | Mitchell van Zuijlen | The perceptual qualities of things
+11:30 | Lisa Wiersma and Francesca Di Cicco | The appeal of painted grapes: visualising the system behind material properties painting
+11:50 | Carol Pottasch | De suyverheit en de cloecke trecken' ('The clear and bold design') in Frans van Mieris' work
+12:10 | Ulrike Kern | Highlights, lustre and the surface of things. 
+12:30 | Discussion | 
+12:50 | Lunch & closing | 
+13:40 | Start workshop & tour | 
 16:30 | Finish workshop, see results | 
 
 
