@@ -45,24 +45,27 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 10:20 | Discussion | 
 10:40 | Coffee | 
  | | **The eye and the machine**
-11:10 | Peter Hall | The Bones of Identity
-11:30 | Eugen Prokott | Comparing Gloss Perception in Artificial Neural Networks to Human Observers
-11:50 | Katherine Storrs | Machines that learn the quirks and failures of human gloss perception
-12:10 | Discussion | 
-12:30 | Lunch & posters | 
+11:00 | Peter Hall | The Bones of Identity
+11:20 | Eugen Prokott | Comparing Gloss Perception in Artificial Neural Networks to Human Observers
+11:40 | Katherine Storrs | Machines that learn the quirks and failures of human gloss perception
+12:00 | Discussion | 
+12:20 | Lunch & posters | 
  | | **Style and environment** 
-14:15 | Sumihiro Oki | Between Reality and Symbol—Rocks in Early Netherlandish Painting
-14:35 | Isamu Motoyoshi | Natural illumination and the style of western and eastern paintings
-14:55 | Anya Hurlbert | The Significance of Colour in Paintings: Does it Tell the Time?
-15:15 | Discussion | 
-15:35 | Coffee | 
+14:00 | Sumihiro Oki | Between Reality and Symbol—Rocks in Early Netherlandish Painting
+14:20 | Isamu Motoyoshi | Natural illumination and the style of western and eastern paintings
+14:40 | Anya Hurlbert | The Significance of Colour in Paintings: Does it Tell the Time?
+15:00 | Discussion | 
+15:20 | Coffee | 
  | | **Technique and material 1**
-16:05 | Arie Wallert | The Thing of Skins
-16:25 | Carmen Di Meo | Painted with Constellations of Minute Dots of Light Colour
-16:45 | Vivian Paulun | Visual perception of deformable things
-17:05 | Aditya Sole | Measuring and Understanding Visual Appearance
-17:25 | Discussion | 
-17:45 | Closing | 
+15:40 | Arie Wallert | The Thing of Skins
+16:00 | Carmen Di Meo | Painted with Constellations of Minute Dots of Light Colour
+16:20 | Vivian Paulun | Visual perception of deformable things
+16:40 | Aditya Sole | Measuring and Understanding Visual Appearance
+17:00 | Discussion | 
+17:20 | Break |
+17:30 | Demonstration talk Henk Helmantel [(selected work)](http://www.helmantel.nl/schilderijen/stillevens.html) |
+18:30 | Finish |
+
  |  | 
 
 #### Wednesday 28 November
@@ -77,6 +80,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 10:40 | Coffee | 
  | | **Technique and material 2: 17th century**
 11:10 | Lisa Wiersma | The appeal of painted grapes: visualising the system behind material properties painting
+11:10 | Lisa Wiersma and Francesca Di Cicco | The appeal of painted grapes: visualising the system behind material properties painting
 11:30 | Carol Pottasch | De suyverheit en de cloecke trecken' ('The clear and bold design') in Frans van Mieris' work
 11:50 | Ulrike Kern | Highlights, lustre and the surface of things. 
 12:10 | Discussion | 
