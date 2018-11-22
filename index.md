@@ -88,6 +88,22 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 13:40 | Start workshop & tour | 
 17:30 | Finish workshop, see results | 
 
+## Poster programme
+ --- | --- | ---
+1 | Kandinsky or Me? How Free is the Eye of the Beholder in Abstract Art? | Doris I. Braun 
+2 | Toward a Perceptual Standard for High Gloss Materials | Jacob R. Cheeseman
+3 | Towards Visual Cues in Translucency Perception of Sea Paintings | Cristina Spoiala
+4 | Aspects of Material Softness During Haptic Explorations | Dicle Dovencioglu
+5 | The Role of Processed Linseed Oils and Additives in the Rendering of Illusionistic Effects in Early Modern Oil Paint- ing | Indra Kneepkens
+6 | Grasping the Skin of Things | Guido Maiello
+7 | The Effectiveness of EnChroma Filters When Viewing Artwork | Lucy Somers
+8 | How Neural Networks Perceive the Viscosity of Liquids | Jan Jaap R. van Assen
+9 | Amodal Presence and Absence in Visual Art: Magritte, Baldessari, Catalano, Picasso | Rob van Lier
+10 | An Image Computable Model of Human Planar Shape Similarity | Yaniv Morgenstern
+11 | Understanding Gloss Perception Through the Lens of Art: Combining Perception, Image Analysis and Painting Recipes of 17th Century Painted Grapes | Francesca Di Cicco
+12 | The perceptual qualities of 17th century velvet and satin depiction | Maarten Wijntjes
+
+
 
 
 ## Instructions for presentations
