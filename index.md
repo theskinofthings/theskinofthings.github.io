@@ -31,7 +31,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 14:45 | Jeroen Stumpel | The Skin of Things
 15:45 | Adrien Bousseau | Computer Graphics for Photorealistic and Non-Photorealistic Depiction of Materials
 16:45 | Break | 
-17:15 | Roland Fleming | Perception of material properties
+17:15 | Roland Fleming | Visual Perception of Materials and their Properties
 18:45 | Reception @ [Cafe Wildschut](http://www.cafewildschut.nl) | 
 
 #### Tuesday 27 November
