@@ -89,6 +89,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 17:30 | Finish workshop, see results | 
 
 ## Poster programme
+
  --- | --- | ---
 1 | Kandinsky or Me? How Free is the Eye of the Beholder in Abstract Art? | Doris I. Braun 
 2 | Toward a Perceptual Standard for High Gloss Materials | Jacob R. Cheeseman
