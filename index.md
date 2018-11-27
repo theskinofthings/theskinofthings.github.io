@@ -37,7 +37,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 #### Tuesday 27 November
 
  --- | --- | ---
- | | **Aesthetics of surface and material**
+ | | **Aesthetics of surface and material** (chair: Jeroen Stumpel)
 09:00 | Ann-Sophie Lehmann | Superficial Pleasures. Making and Experiencing Material Surfaces in the Visual Arts
 09:20 | David Romand | Konrad Lange on "the illusion of materials" in painting and visual arts.
 09:40 | Hannah De Corte | Against the grain. Emergence of the textile of the canvas at the surface of modern painting
