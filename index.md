@@ -44,19 +44,19 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 10:00 | Flip Phillips | The Veiled Virgin Effect: Causal Layering of 3D Shape
 10:20 | Discussion | 
 10:40 | Coffee | 
- | | **The eye and the machine**
+ | | **The eye and the machine**(chair: Flip Phillips)
 11:00 | Peter Hall | The Bones of Identity
 11:20 | Eugen Prokott | Comparing Gloss Perception in Artificial Neural Networks to Human Observers
 11:40 | Katherine Storrs | Machines that learn the quirks and failures of human gloss perception
 12:00 | Discussion | 
 12:20 | Lunch & posters | 
- | | **Style and environment** 
+ | | **Style and environment** (chair: Arie Wallert)
 14:00 | Sumihiro Oki | Between Reality and Symbol—Rocks in Early Netherlandish Painting
 14:20 | Isamu Motoyoshi | Natural illumination and the style of western and eastern paintings
 14:40 | Anya Hurlbert | The Significance of Colour in Paintings: Does it Tell the Time?
 15:00 | Discussion | 
 15:20 | Coffee | 
- | | **Technique and material 1**
+ | | **Technique and material 1** (chair: Indra Kneepkens)
 15:40 | Arie Wallert | The Thing of Skins
 16:00 | Carmen Di Meo | Painted with Constellations of Minute Dots of Light Colour
 16:20 | Vivian Paulun | Visual perception of deformable things
@@ -71,14 +71,14 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 #### Wednesday 28 November
 
  --- | --- | --- 
- | | **Colours and (sub)surface**
+ | | **Colours and (sub)surface** (chair: Anya Hurlbert)
 09:00 | Marjolijn Bol | Gems, Glow, and Glazing - Chapters in the Art of Painting Splendour
 09:20 | Karl Gegenfurthner | Color saturation and the skin of fruits
 09:40 | Katja Doerschner | Color constancy for translucent materials
 10:00 | Bilge Sayim | Transparency in Visual Art
 10:20 | Discussion | 
 10:40 | Coffee | 
- | | **Technique and material 2: 17th century**
+ | | **Technique and material 2: 17th century** (chair: Ann-Sophie Lehman)
 11:10 | Mitchell van Zuijlen | The perceptual qualities of things
 11:30 | Lisa Wiersma and Francesca Di Cicco | The appeal of painted grapes: visualising the system behind material properties painting
 11:50 | Carol Pottasch | De suyverheit en de cloecke trecken' ('The clear and bold design') in Frans van Mieris' work
