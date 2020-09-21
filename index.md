@@ -44,7 +44,7 @@ The symposium will take place in the ‘Ateliergebouw’ of the Rijksmuseum in A
 10:00 | Flip Phillips | The Veiled Virgin Effect: Causal Layering of 3D Shape
 10:20 | Discussion | 
 10:40 | Coffee | 
- | | **The eye and the machine**(chair: Flip Phillips)
+ | | **The eye and the machine** (chair: Flip Phillips)
 11:00 | Peter Hall | The Bones of Identity
 11:20 | Eugen Prokott | Comparing Gloss Perception in Artificial Neural Networks to Human Observers
 11:40 | Katherine Storrs | Machines that learn the quirks and failures of human gloss perception
