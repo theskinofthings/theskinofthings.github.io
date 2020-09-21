@@ -1,3 +1,14 @@
+## Special Issue on the Skin of Things 
+
+In November 2018 we organised the *The Skin of Things; A Symposium on Perceiving and Painting Material Properties.*. After the symposium we put out a call for a special issue in [Art and Perception](https://brill.com/view/journals/artp/artp-overview.xml) and we are very proud to announce the outcomes of this endeavour. Because the journal is unfortunately not open access we have gathered the unedited manuscripts and would like to share them here.  
+
+
+
+
+
+
+
+
 ## Introduction
 In the art of painting the rendering of space has always been considered of great importance, and perspective, shading and foreshortening have been widely studied. The rendering of materials is quite another matter. It was equally deemed essential for the art painting in the past, but it has received little scholarly or scientific attention until now. This symposium will be devoted both to the art historical aspects of the pictorial evocation of materials, and to the psychology and perception of material properties.
 
