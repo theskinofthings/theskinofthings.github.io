@@ -2,31 +2,31 @@
 
 In November 2018 we organised the *The Skin of Things; A Symposium on Perceiving and Painting Material Properties.*. After the symposium we put out a call for a special issue in [Art and Perception](https://brill.com/view/journals/artp/artp-overview.xml) and we are very proud to announce the outcomes of this endeavour. Because the journal is unfortunately not open access we have gathered the unedited manuscripts and would like to share them here.  
 
-* Boulton, P. and Hall, P. (2020). Under material skin lie the bones of identity. Art Percept. 8 [preprint](papers/BoultonHall_TSoT2020.pdf).
+* Boulton, P. and Hall, P. (2020). Under material skin lie the bones of identity. Art Percept. 8 [Journal Link](https://doi.org/10.1163/22134913-bja10020), [preprint](papers/BoultonHall_TSoT2020.pdf).
 
 
-* De Corte, H. (2020). Selective preparation of canvas as an ‘artistic device’ in David Hockney’s early paintings (1964–1972); Impact of this hybrid priming technique on perception by the viewer, with a particular focus on Portrait of an Artist (Pool with Two Figures) and Mt. Fuji and Flowers. Art Percept. 8 [preprint](papers/DECORTE.pdf).
+* De Corte, H. (2020). Selective preparation of canvas as an ‘artistic device’ in David Hockney’s early paintings (1964–1972); Impact of this hybrid priming technique on perception by the viewer, with a particular focus on Portrait of an Artist (Pool with Two Figures) and Mt. Fuji and Flowers. Art Percept. 8 [Journal Link](https://doi.org/10.1163/22134913-bja10015), [preprint](papers/DECORTE.pdf).
 
 
-* Di Cicco, F., Wiersma, L., Wijntjes, M, and Pont, S. (2020). Material properties and image cues for convincing grapes: The know-how of the 17th-century pictorial recipe by Willem Beurs. Art Percept. 8 (this issue).
+* Di Cicco, F., Wiersma, L., Wijntjes, M, and Pont, S. (2020). Material properties and image cues for convincing grapes: The know-how of the 17th-century pictorial recipe by Willem Beurs. Art Percept. 8 [Journal Link](https://doi.org/10.1163/22134913-bja10019), [preprint](papers/DiCicco.pdf)
 
 
-* Pottasch, C. (2020). Frans van Mieris’s painting technique as one of the possible sources for Willem Beurs’s treatise on painting. Art Percept. 8 (this issue).
+* Pottasch, C. (2020). Frans van Mieris’s painting technique as one of the possible sources for Willem Beurs’s treatise on painting. Art Percept. 8 (this issue). [Journal Link](https://doi.org/10.1163/22134913-bja10013)
 
-* Ritchie, J.B. and Van Buren, B. (2020). When scenes look like materials: René Magritte’s reversible figure–ground motif. Art Percept. 8 (this issue).
-
-
-* Romand, D. (2020). ‘Konrad Lange on ‘the illusion of materials’ in painting and visual arts: Revisiting a psychoaesthetic theory of the perception of material properties’. Art Percept. 8 (this issue).
+* Ritchie, J.B. and Van Buren, B. (2020). When scenes look like materials: René Magritte’s reversible figure–ground motif. Art Percept. 8 (this issue). [Journal Link](https://doi.org/10.1163/22134913-bja10002). 
 
 
-* Schmidt, F. (2020). The art of shaping materials. Art Percept. 8 (this issue).
+* Romand, D. (2020). ‘Konrad Lange on ‘the illusion of materials’ in painting and visual arts: Revisiting a psychoaesthetic theory of the perception of material properties’. Art Percept. 8 (this issue). [Journal Link](https://doi.org/10.1163/22134913-20191126).
+
+
+* Schmidt, F. (2020). The art of shaping materials. Art Percept. 8 [Journal link](https://doi.org/10.1163/22134913-20191116), [preprint](papers/Schmidt.pdf).
 
 
 * Wiersma, L. (2020). ‘Colouring’ — Material depiction in Flemish and Dutch Baroque art
-theory. Art Percept. 8 (this issue).
+theory. Art Percept. 8 (this issue). [Journal Link](https://doi.org/10.1163/22134913-bja10005)
 
 *  Wijntjes, M.W.A., Spoiala, C. and De Ridder, H. (2020). Thurstonian scaling and the perception
-of painterly translucency. Art Percept. 8 (this issue).
+of painterly translucency. Art Percept. 8 [Journal Link](https://doi.org/10.1163/22134913-bja10021), [preprint](papers/Wijntjes.pdf).
 
 
 <!--
