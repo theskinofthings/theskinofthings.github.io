@@ -1,6 +1,8 @@
 ## Special Issue on the Skin of Things 
 
-In November 2018 we organised the *The Skin of Things; A Symposium on Perceiving and Painting Material Properties.*. After the symposium we put out a call for a special issue in [Art and Perception](https://brill.com/view/DOIs/artp/artp-overview.xml) and we are very proud to announce the outcomes of this endeavour. Because the DOI is unfortunately not open access we have gathered the unedited manuscripts and would like to share them here.  
+![](/images/cover.jpg)
+
+[Art and Perception](https://brill.com/view/DOIs/artp/artp-overview.xml) recently published our special issue that organized after the first Skin of Things meeting. Because the journal is unfortunately not open access we have gathered the unedited manuscripts and would like to share them here.  
 
 * Boulton, P. and Hall, P. (2020). Under material skin lie the bones of identity. Art Percept. 8 [DOI](https://doi.org/10.1163/22134913-bja10020), [Preprint](papers/BoultonHall_TSoT2020.pdf).
 
