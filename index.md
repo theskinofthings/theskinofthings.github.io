@@ -15,7 +15,7 @@ In November 2018 we organised the *The Skin of Things; A Symposium on Perceiving
 
 * Ritchie, J.B. and Van Buren, B. (2020). When scenes look like materials: René Magritte’s reversible figure–ground motif. Art Percept. 8 (this issue). [DOI](https://doi.org/10.1163/22134913-bja10002)--- [Preprint](papers/Ritchie.pdf). 
 
-* Romand, D. (2020). ‘Konrad Lange on ‘the illusion of materials’ in painting and visual arts: Revisiting a psychoaesthetic theory of the perception of material properties’. Art Percept. 8 (this issue). [DOI](https://doi.org/10.1163/22134913-20191126).
+* Romand, D. (2020). ‘Konrad Lange on ‘the illusion of materials’ in painting and visual arts: Revisiting a psychoaesthetic theory of the perception of material properties’. Art Percept. 8 (this issue). [DOI](https://doi.org/10.1163/22134913-20191126), [Preprint](papers/Romand.pdf).
 
 
 * Schmidt, F. (2020). The art of shaping materials. Art Percept. 8 [DOI](https://doi.org/10.1163/22134913-20191116), [Preprint](papers/Schmidt.pdf).
