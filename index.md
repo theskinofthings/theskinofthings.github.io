@@ -2,12 +2,12 @@
 
 ![](/images/cover.jpg)
 
-[Art and Perception](https://brill.com/view/DOIs/artp/artp-overview.xml) recently published our special issue that organized after the first Skin of Things meeting. Because the journal is unfortunately not open access we have gathered the unedited manuscripts and would like to share them here.  
+[Art and Perception](https://brill.com/view/DOIs/artp/artp-overview.xml) recently published our special issue that organized after the first Skin of Things meeting. Because the journal is unfortunately not open access we have gathered the unedited manuscripts and would like to share them here. The *DOI* link brings you to the journal, the *Preprint* link to the manuscripts. 
 
 * Boulton, P. and Hall, P. (2020). Under material skin lie the bones of identity. Art Percept. 8 [DOI](https://doi.org/10.1163/22134913-bja10020), [Preprint](papers/BoultonHall_TSoT2020.pdf).
 
 
-* De Corte, H. (2020). Selective preparation of canvas as an ‘artistic device’ in David Hockney’s early paintings (1964–1972); Impact of this hybrid priming technique on perception by the viewer, with a particular focus on Portrait of an Artist (Pool with Two Figures) and Mt. Fuji and Flowers. Art Percept. 8 [Preprint](https://doi.org/10.1163/22134913-bja10015), [Preprint](papers/DECORTE.pdf).
+* De Corte, H. (2020). Selective preparation of canvas as an ‘artistic device’ in David Hockney’s early paintings (1964–1972); Impact of this hybrid priming technique on perception by the viewer, with a particular focus on Portrait of an Artist (Pool with Two Figures) and Mt. Fuji and Flowers. Art Percept. 8 [DOI](https://doi.org/10.1163/22134913-bja10015), [Preprint](papers/DECORTE.pdf).
 
 
 * Di Cicco, F., Wiersma, L., Wijntjes, M, and Pont, S. (2020). Material properties and image cues for convincing grapes: The know-how of the 17th-century pictorial recipe by Willem Beurs. Art Percept. 8 [DOI](https://doi.org/10.1163/22134913-bja10019), [Preprint](papers/DiCicco.pdf)
