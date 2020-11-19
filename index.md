@@ -13,7 +13,7 @@
 * Di Cicco, F., Wiersma, L., Wijntjes, M, and Pont, S. (2020). Material properties and image cues for convincing grapes: The know-how of the 17th-century pictorial recipe by Willem Beurs. Art Percept. 8 [DOI](https://doi.org/10.1163/22134913-bja10019), [Preprint](papers/DiCicco.pdf)
 
 
-* Pottasch, C. (2020). Frans van Mieris’s painting technique as one of the possible sources for Willem Beurs’s treatise on painting. Art Percept. 8 (this issue). [DOI](https://doi.org/10.1163/22134913-bja10013), [Preprint](papers/DiCicco.pdf)
+* Pottasch, C. (2020). Frans van Mieris’s painting technique as one of the possible sources for Willem Beurs’s treatise on painting. Art Percept. 8 (this issue). [DOI](https://doi.org/10.1163/22134913-bja10013), [Preprint](papers/Pottasch.pdf)
 
 * Ritchie, J.B. and Van Buren, B. (2020). When scenes look like materials: René Magritte’s reversible figure–ground motif. Art Percept. 8 (this issue). [DOI](https://doi.org/10.1163/22134913-bja10002), [Preprint](papers/Ritchie.pdf). 
 
